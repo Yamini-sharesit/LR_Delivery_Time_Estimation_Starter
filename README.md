@@ -5,21 +5,33 @@ Input File: The dataset (porter_data_1.csv) contains order details, restaurant i
 
 ## Methods Used:
 ✅ Machine Learning
+
 ✅ Data Cleaning
+
 ✅ Feature Engineering
+
 ✅ Regression Modeling
+
 ✅ Feature Selection (RFE)
+
 ✅ Model Evaluation
+
 ✅ Residual Analysis
 
-##echnologies Used:
+
+## Technologies Used:
 ✅ Python
 ✅ Jupyter Notebook
 
-##Python Packages Used:
+## Python Packages Used:
 ✅ Pandas (Data Manipulation)
+
 ✅ NumPy (Numerical Operations)
+
 ✅ Scikit-learn (Machine Learning & Feature Selection)
+
 ✅ Statsmodels (Linear Regression & Model Summary)
+
 ✅ Matplotlib (Data Visualization)
+
 ✅ Seaborn (Advanced Plots)
